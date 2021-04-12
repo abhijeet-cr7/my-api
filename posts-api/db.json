@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "_id": 1,
+      "comments": [
+        "kya be kya scene",
+        "kya bolti public",
+        "chal chal scene kya hai"
+      ],
+      "likes": [1, 0, 1],
+      "content": "Oo sanam mohobat ki kasam",
+      "username": "Aaditya"
+    },
+    {
+      "_id": 2,
+      "comments": [
+        "kya be kya scene",
+        "kya bolti thi public",
+        "chal bete scene kya hai"
+      ],
+      "likes": [2, 0, 1],
+      "content": "Oo sanam tere pyar ki kasam",
+      "username": "Abhijeet"
+    },
+    {
+      "_id": 3,
+      "comments": [
+        "kya be kya scene",
+        "kya bolti thi public",
+        "chal bete scene kya hai"
+      ],
+      "likes": [1, 0, 3],
+      "content": "Oo sanam fariyadon ki kasam",
+      "username": "Mamu"
+    },
+    {
+      "_id": 4,
+      "comments": [
+        "kya be kya scene",
+        "kya bolti thi public",
+        "chal bete scene kya hai"
+      ],
+      "likes": [1, 0, 2],
+      "content": "Pizza khaega be",
+      "username": "Joja"
+    },
+    {
+      "id": 5,
+      "comments": ["bad ass bitch", "peaches", "justin my man"],
+      "likes": [0, 0, 1],
+      "content": "There's nothing holding me back",
+      "username": "Shwan Mendes"
+    }
+  ]
+}
